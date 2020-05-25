@@ -18,8 +18,8 @@ warna = random.choice([hijau,cyan,biru,merah])
 logo  = """%s╔═╗%s┌┬┐┌─┐┌─┐┌─┐  %s╔═╗%s┬ ┬┌─┐┌─┐┬┌─┌─┐┬─┐
 %s║╣ %s│││├─┘├─┤└─┐  %s║  %s├─┤├┤ │  ├┴┐├┤ ├┬┘
 %s╚═╝%s┴ ┴┴  ┴ ┴└─┘  %s╚═╝%s┴ ┴└─┘└─┘┴ ┴└─┘┴└─
-%s+--={ %sAuthor%s: %sRizky ID
-%s+--={ %sGithub%s: %sgithub.com/hekelpro
+%s+--={ %sAuthor%s: %sAunganteng LOGIN dan
+%s+--={ %sGithub%s: %sgithub.com/auncantek
 """%(warna,putih,warna,putih,warna,putih,warna,putih,warna,putih,warna,putih,merah,putih,merah,hijau,merah,putih,merah,hijau)
 def main():
     os.system('clear')
